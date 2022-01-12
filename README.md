@@ -40,7 +40,7 @@ npm start
 
 ### Website
 
-Under development
+https://react-todo-app-chi-ten.vercel.app/
 
 ### Screens
 
