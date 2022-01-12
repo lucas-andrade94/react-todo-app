@@ -45,5 +45,5 @@ https://react-todo-app-chi-ten.vercel.app/
 ### Screens
 
 <div align="center">
-    <img alt="Login Page" title="Login Page" src=".github\screen-1.png?raw=true" width="200px" />
+    <img alt="Task Page" title="Task Page" src=".github\screen-1.png?raw=true" width="200px" />
 </div>
